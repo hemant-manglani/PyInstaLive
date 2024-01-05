@@ -61,7 +61,6 @@ pildev/
 
 venv/
 
-\.vscode/\.ropeproject/
 
 *.dat
 
@@ -73,3 +72,6 @@ venv/
 *.txt
 
 *_live/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
